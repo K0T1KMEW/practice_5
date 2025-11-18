@@ -1,0 +1,4 @@
+aio-pika
+pydantic
+playwright
+miniopy_async

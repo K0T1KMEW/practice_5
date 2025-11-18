@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+aio-pika
+jinja2
+python-multipart
+pydantic
+websockets
